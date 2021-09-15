@@ -1,3 +1,5 @@
+package algoexpert.io.bst;
+
 public class BinarySearchTreeConstruction {
 
     static class BST{

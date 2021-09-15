@@ -1,3 +1,5 @@
+package algoexpert.io.bst;
+
 public class ValidateBST {
     public static boolean validateBst(BST tree) {
         return validateBst(tree,Integer.MIN_VALUE,Integer.MAX_VALUE);

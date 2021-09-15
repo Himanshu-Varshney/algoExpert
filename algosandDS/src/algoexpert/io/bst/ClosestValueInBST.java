@@ -1,3 +1,5 @@
+package algoexpert.io.bst;
+
 import org.junit.Test;
 
 public class ClosestValueInBST {

@@ -1,3 +1,5 @@
+package algoexpert.io.bst;
+
 import java.util.List;
 
 public class MinHeightBST1 {
